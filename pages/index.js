@@ -3,6 +3,7 @@ import Link from "next/link";
 export default function Home() {
   return (
     <>
+    <head>Daniela Sofia Sismey</head>
     <h1 className="text-3xl text-center my-6 text-purple-900"><b>Daniela Sofia Sismey</b></h1>
     <h2 className="text-2xl text-left mr-6 text-purple-800"> About me</h2>
     <img className="float-left" src="https://imgur.com/w2VXfUP"/>
