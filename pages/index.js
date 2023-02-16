@@ -6,7 +6,7 @@ export default function Home() {
     <head>Daniela Sofia Sismey</head>
     <h1 className="text-3xl text-center my-6 text-purple-900"><b>Daniela Sofia Sismey</b></h1>
     <h2 className="text-2xl text-left mr-6 text-purple-800"> About me</h2>
-    <img className="float-left" src="https://i.imgur.com/w2VXfUP.jpg"/>
+    <img className="float-left" width="400" src="https://i.imgur.com/w2VXfUP.jpg"/>
     <p className> Hello! My name is Daniela (some people call me Sofia, my second name) and I am an aspiring programmer. I was born in Portugal and
       grew up in London, UK. I am actually a registered paediatric nurse right now, and picked up coding as a sort of hobby and sort of 
       future aspiration! My favourite things in the world are gaming, Hatsune Miku and my pet rats.</p><br></br>
