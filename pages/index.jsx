@@ -21,9 +21,16 @@ export default function Home() {
             <ul className="list-disc list-inside">
               <li><a className="text-1xl text-left mr-3 text-fuchsia-800" href="https://kelvinconverter.netlify.app/"> Kelvin temperature converter</a></li>
             </ul><br />
+            <h2 className="text-2xl text-left mr-6 text-purple-800">Where you can find me:</h2>
+            <ul className="list-disc list-inside">
+              <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+              <li className="badge-base LI-profile-badge text-1xl text-left mr-3 text-fuchsia-800" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="daniela-sismey-7b1572260" data-version="v1"><a className="badge-base__link LI-simple-link text-fuchsia-800" href="https://uk.linkedin.com/in/daniela-sismey-7b1572260?trk=profile-badge">Linkedin</a></li>
+            </ul>
           </div>
         </div>
-        <footer className="text-center my-9 text-purple-900">&copy; Daniela Sofia Sismey/ yumemiku 2023</footer>
+        <footer className="text-center my-9 text-purple-900">
+          &copy; Daniela Sofia Sismey/ yumemiku 2023
+        </footer>
       </div>
     </>
   )
