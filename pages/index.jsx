@@ -18,8 +18,9 @@ export default function Home() {
               grew up in London, UK. I am actually a registered paediatric nurse right now, and picked up coding as a sort of hobby and sort of
               future aspiration! My favourite things in the world are gaming, Hatsune Miku and my pet rats.</p><br />
             <h2 className="text-2xl text-left mr-6 text-purple-800"> Current Portfolio - watch this space!</h2>
-            <ul className="list-disc list-inside text-fuchsia-800">
-              <li><a className="text-1xl text-left mr-3 text-fuchsia-800" href="https://kelvinconverter.netlify.app/"> Kelvin temperature converter</a></li>
+            <ul className="list-disc text-1xl text-left mr-3 list-inside text-fuchsia-800">
+              <li><a href="https://kelvinconverter.netlify.app/"> Kelvin temperature converter</a></li>
+              <li><a href="/fashionblog">Fashion Blog</a></li>
             </ul><br />
             <h2 className="text-2xl text-left mr-6 text-purple-800">Where you can find me:</h2>
             <ul className="list-disc list-inside text-fuchsia-800">
