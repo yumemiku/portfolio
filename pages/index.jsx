@@ -5,13 +5,13 @@ export default function Home() {
 
   return (
     <>
-      <Head>
+      < Head >
         <title>Daniela Sofia Sismey</title>
-      </Head>
+      </Head >
       <div className="max-w-5xl mx-auto">
         <h1 className="text-3xl text-center my-6 text-purple-900 font-bold">Daniela Sofia Sismey</h1>
         <h2 className="text-2xl text-left mr-6 text-purple-800"> About me</h2>
-        <div className="flex">
+        <div className="md:flex">
           <img className="mr-4" width="300" src="/images/me.jpg" />
           <div>
             <p> Hello! My name is Daniela (some people call me Sofia, my second name) and I am an aspiring programmer. I was born in Portugal and
